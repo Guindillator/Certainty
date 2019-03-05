@@ -1,5 +1,5 @@
 # Certainty
-All code and raw data related to certainty project.
+All code and raw data and files related to certainty project.
 
 ## Pipelines
 #### Code_Figures_Certainty_Project.ipynb
