@@ -1,0 +1,91 @@
+1- Today, although aerobic metabolism and the corresponding generation of ROS remain the most widely accepted cause of aging, substantial gaps and unknowns persist. Although it is commonly assumed that an increase in oxygen consumption produces an increase in ROS production,<blue> we would argue that this positive correlation is only true if the increase in oxygen consumption was secondary to a higher tissue pO2 or an increase in the number of sites. <blue>
+
+2- There is now compelling evidence that particular components of this regulatory machinery act as tumor suppressors or protooncogenes,<blue> whose mutations occur so frequently as to prompt speculation that disabling “the RB pathway” may be essential for the formation of cancer cells (Sherr, 1996, Sellers and Kaelin, 1997, Nevins, 2001, Hahn and Weinberg, 2002 and Ortega et al., 2002).<blue>
+
+3- Interestingly, the inhibition of p53, alone or in combination with pRb, was sufficient to overcome the RASV12-induced arrest to an extent similar as LT. In conclusion, our results indicate that loss of p53 is sufficient to overcome RAS-induced oncogenic stress in primary cells. <blue>However, this was not sufficient for full blown transformation of primary human cells, which also required the collaborative inhibition of pRb, together with the expression of hTERT, RASV12.<blue>
+
+4- <blue>Hence, the extent to which miRNAs were capable of specifically regulating metastasis has remained unresolved.<blue>
+
+5-<blue> Therefore, it is unlikely that the localization of Aurora-A in the nucleus as determined by these two antibodies is a result of cross-reaction of anti-Aurora-A antibodies.<blue>
+
+6-<blue> However, the possibility seems unlikely because we have also observed that the human lung cancer cell line, H460, displays similar growth inhibition when it is transduced by MIGR1-Lats2 retrovirus (data not shown), while expression of Lats1 in H460 resulted in a G2/M block and induced apoptosis (Xia et al., 2002).<blue>
+
+7- The expression of Oct4 in various forms of human cancer [8], [9] and a recently described role for Oct4 in adult stem cells [10] and the expansion of epithelial progenitor cells [7] supports the theory that cancer is a disease of stem cells.<blue> This theory postulates that cancers arise in stem cells or early committed progenitors [58] due to their inability to differentiate in a regulated fashion.<blue> Oct4 directly regulates the transcription of genes such as Trp53, Brca1, Parp1, and Bmi1 which play a central role in a cell's proclivity to undergo transformation, apoptosis, senescence, and now differentiation.
+
+8- When these 56 tumors were stratified based on clinical progression, we found that miR-31 expression was diminished in primary tumors that subsequently metastasized, when compared to normal breast tissue and primary tumors that did not recur; moreover, low miR-31 levels correlated strongly with reduced distant disease-free survival relative to tumors with high miR-31. <blue>Thus, miR-31 may represent a marker for metastasis in a variety of breast cancer subtypes;<blue> however, its utility as a prognostic indicator will depend on extension of these initial observations.
+
+9- These worms also were shown recently to exhibit increased levels of nuclear DNA damage ( Hartman et al., 2004), arguing that mitochondrial oxidants might be an important source of overall genomic instability.<blue> This conjecture is also supported by observations in mice that are heterozygous for mitochondrial superoxide dismutase (Sod2+/−).<blue>
+
+10- Since these 32 genes are also required for zVAD.fmk-induced necroptosis, <blue>we hypothesize that these 32 genes represent potential core components of the necroptotic pathway.<blue>
+
+11- Although the exact mechanism responsible for this effect is still unclear,<blue> we suggest that suppression of LATS2 is an important factor.<blue>
+
+12- <blue>Finally, we have identified 26 direct Oct4 transcriptional targets which may represent candidate regulatory nodes by which cell fate decisions could be directed to facilitate the use of hESCs in therapeutic and regenerative medicine.<blue>
+
+13- Each of these physiologic changes—novel capabilities acquired during tumor development—represents the successful breaching of an anticancer defense mechanism hardwired into cells and tissues.<blue> We propose that these six capabilities are shared in common by most and perhaps all types of human tumors.<blue>
+
+14-<blue> We therefore hypothesized that conserved regions in mRNAs may serve as docking platforms for modulators of miRNA activity.<blue>
+
+15- While the remainder have invented a way of activating a mechanism, termed ALT, which appears to maintain telomeres through recombination-based interchromosomal exchanges of sequence information (Bryan et al. 1995).<blue> The role of telomerase in immortalizing cells can be demonstrated directly by ectopically expressing the enzyme in cells, where it can convey unlimited replicative potential onto a variety of normal early passage, presenescent cells in vitro.<blue>
+
+16- Whether miRNAs act mainly as tumor suppressors (suppressor-miRs), promotors of tumorigenesis (onco-miRs) or both is still widely elusive, but the global decrease in miRNA expression in human cancers suggests that<blue> most miRNAs may act as direct suppressor-miRs or post-transcriptional repressors of known oncogenes.<blue>
+
+17-<blue> The two major sites for ROS generation are believed to be at sites I and III where large changes in the potential energy of the electrons, relative to the reduction of oxygen, occur.<blue> Experimental manipulations that increase the redox potential of site I (Kushnareva et al., 2002) or site III (Chen et al., 2003) generally increase the rate of ROS generation, supporting the notion that the redox potential of these reactive sites is important in free radical formation.
+
+18- In light of the recent report that Drosha is responsible for the nuclear processing of miRNA primary transcripts (23), <blue>our results can be explained by the idea that elements needed for Drosha recognition reside within the sequences that flank the miR-223 predicted hairpin.<blue>
+
+19-<blue> The observation that the differentiation of myeloid and other lymphoid cell types was not totally blocked when the B-lymphoid lineage increased suggests that miR-181, at least when considered singly rather than in combination with other miRNAs, appears to function more as a lineage modulator than as a switch.<blue>
+
+20- Indeed, 22.6% of breast cancers exhibit evidence of deletion (one homozygous deletion of 15.0 Mb) at the PTPN12 locus, though the deletions exhibit a median size of 22.9 Mb, suggesting that multiple driver mutations may exist in this region. <blue>These data suggest that PTPN12 is inactivated, in part, via deletion in a wide range of cancers and support the hypothesis that PTPN12 is a frequently inactivated tumor suppressor.<blue>
+
+21- The conclusion is that tumor cells generate many of their own growth signals, thereby reducing their dependence on stimulation from their normal tissue microenvironment. This liberation from dependence on exogenously derived signals disrupts a critically important homeostatic mechanism that normally operates to ensure a proper behavior of the various cell types within a tissue.<blue> We suspect that growth signaling pathways suffer deregulation in all human tumors.<blue> Although this point is hard to prove rigorously at present, the clues are abundant (Hunter 1997).
+
+22- By using viral and mutant human genes, as well as homologous recombination, <blue>it became apparent that the pRb and p53 pathways are involved in this process. [Hahn et al. 1999 and Wei et al. 2003].<blue>
+
+23- <blue>It is probable that mouse Lats2 also regulates the G1/S transition through down-regulation of Cyclin E/Cdk2 kinase activity in NIH3T3 cells (Li et al. 2003).<blue>
+
+24- Thus, although we agree that increased levels of p53 cause activation of a rapid and massive apoptoticresponse in EC cells,<blue> we believe that the trigger for this response isthe persistence of DNA damage in cells that can poorly repair it.<blue> In this context, while the development of TGCTs would beallowed by a partial functional inactivation of p53,such mechanism would be insufficient to counteract the proapoptotic function of p53 induced by a persistent damage, causing a rapid cell death.
+
+25- <blue>Here we present evidence that INPP4B functions as a tumor suppressor.<blue> Knocking down the expression of this enzyme in HMEC cells results in anchorage-independent growth and enhanced motility, similar to changes induced in response to knockdown of the PTEN tumor suppressor gene.
+
+26- miRNAs are regulatory, non-coding RNAs about 21-23 nucleotides in length and are expressed at specific stages of tissue development or cell differentiation, and have large-scale effects on the expression of a variety of genes at the post-transcriptional level. Although their biological functions remain largely unknown, recent studies suggest that miRNAs contribute to the development of various cancers [19] and might function as an important component of the cell's natural defense against viral infection [20] [22].<blue> It has been proposed that an unique miRNA expression profile for a particular cancer would be a useful biomarker for cancer diagnosis [23] and prognosis [24].<blue>
+
+27- <blue>We confirmed the consistency of miRNA expression driven by miR-Vec by cloning eight miR-Vec plasmids expressing randomly chosen miRNAs.<blue> With one exception, all constructs yielded high expression levels of mature miRNAs.
+
+28- We show that high level expression of oncogenic RAS induces deregulated growth and loss of differentiation in cultured rat thyroid cells, whereas low levels of the same protein elicit only deregulated growth without interference with differentiation. <blue>In accordance with these observations, our data show the requirement of high RAS oncoproteins overexpression to achieve the loss of the differentiated phenotype, at least 10-fold over the endogenous wild-type RAS.<blue>
+
+29- A strong link between miRNA dysregulation and human cancer has been established [14]. <blue>Consequently miRNAs have been demonstrated to act either as oncogenes (e.g., miR-155, miR-17−5p and miR-21) [15,16] or tumor suppressors (e.g., miR-34, miR-15a, miR-16−1 and let-7) [17–20].<blue> However, the precise regulatory features that tip the balance towards a cancer phenotype with respect to tumor suppressor versus oncogenic miRNA expression are poorly understood.
+
+30-<blue> Recently, it has been recognized that animal and plant genomes contain an abundance of small regulatory RNAs of approximately 22 nucleotides (nts) in length <blue>[11], [12], [13], [14], [15], [16] and [17]. One class of small RNAs called microRNAs (miRNAs) has a variety of functions and is involved in the regulation of gene expression [18], [19], [20], [21], [22], [23], [24], [25] and [26].
+
+31- Since activating mutations are found in several members of the MAPK and PI3K pathways in many human cancers, <blue>we reasoned that the coactivation of these two pathways might replace H-RASV12 in transformation.<blue> To test this hypothesis, we manipulated the MAPK and PI3K pathways in HA1E cells.
+
+32- Our observations raise the important prediction that <blue>many malignancies considered to be non-TK driven because of the absence of a dominant TK mutation may indeed be dependent on TK signaling.<blue> It is likely that in different cell types, different PTPs may play roles similar to PTPN12 in suppressing tumorigenesis, possibly by antagonizing different combinations of TKs.
+
+33- We were able to confirm that the cancer tissues had reduced expression of miR-126 and miR-424, and increased expression of miR-15b, miR-16, miR-146a, miR-155, and miR-223, after individual miRNA level in each sample was quantified and normalized to U6 expression. <blue>Another study suggested that overexpression of miR-17-5p, miR-20a, miR-21, miR-92, miR-106a, and miR-155 could be considered an miRNA signature of solid cancer [59].<blue>
+
+34- To address this question, synthetic miR-143 and miR-145 precursors were transiently transfected into HeLa cells and the effect of overexpression of their mature miRNAs on HeLa cell growth was evaluated by cell counting. Both miR-143 and miR-145 were found suppressive (p<0.005 for miR-143 and p<0.008 of miR-145, t-test) to HeLa cell growth.<blue> Data suggest that both miR-143 and miR-145 probably need to be downregulated in cervical cells for tumor progression.<blue>
+
+35- In a third experiment, we tested the ability of cells to form tumors in athymic nude mice. We injected 2 million cells subcutaneously and monitored tumor growth after 4 weeks. Both the LT overexpression and the concerted inhibition of pRb and p53 in BJ-ET/st/RAS allowed for highly efficient tumor formation in mice.<blue> Inactivation of only p53 gave rise to inefficient tumor growth in some of the mice (2 out of 6), most likely due to increased genomic instability in the absence of p53 while propagating the cells before the injections.<blue> Lastly, mice injected with BJ-ET/st/RAS cells, in which only pRb expression was inhibited, developed no tumors. In conclusion, our results indicate that loss of p53 is sufficient to overcome RAS-induced oncogenic stress in primary cells.
+
+36- Interestingly, knockdown of Bmf blocked necroptosis induced by zVAD.fmk and TNF, but not apoptosis of TNF/CHX-treated NIH 3T3 cells. Although Bmf has been implicated as a proapoptotic molecule, this result suggests that, at least in the death receptor signaling pathway, Bmf is primarily involved in mediating necroptosis, but not apoptosis.<blue> It is possible that the activation of Bmf may induce either apoptosis or necroptosis in a stimulus and cellular context-dependent manner.<blue>
+
+37- Although these observations do not eliminate the possibility that other genes within this 1q32 amplicon may cooperate with IKBKE to induce transformation,<blue> these findings suggest that IKBKE is a key target of the 1q32 amplification in breast cancer cell lines and tumors.<blue>
+
+38- 1299 probesets (1155 unique transcripts) were found to be correlated to Oct4. Seventy-five probesets (69 transcripts) were negatively correlated, while 1224 probesets (1086 transcripts) were positively correlated.<blue> The validity of this method for the identification of genes related to stem cell identity is assured by the presence of genes which have previously defined roles in ESCs<blue> such as Utf1, Fgf4, Nanog, and Sox2 which were correlated to Oct4 in 100%, 99%, 97% and 49% of the trials respectively.
+
+39- Our work adds to this list a set of hematopoietic-specific miRNAs that <blue>presumably act by pairing to the mRNAs of their target genes to direct gene silencing processes critical for hematopoiesis.<blue>
+
+40- The two major sites for ROS generation are believed to be at sites I and III where large changes in the potential energy of the electrons, relative to the reduction of oxygen, occur .<blue> Experimental manipulations that increase the redox potential of site I (Kushnareva et al., 2002) or site III (Chen et al., 2003) generally increase the rate of ROS generation,<blue> supporting the notion that the redox potential of these reactive sites is important in free radical formation.
+
+41- Here, we identify IKBKE as a human breast cancer oncogene. IKBKE is amplified and overexpressed in a significant percentage of human breast tumors. In addition, IKBKE expression leads to cell transformation when overexpressed in immortalized human cells at levels found in breast cancer specimens, and cancer cell lines that exhibit IKBKE copy-number gain or amplification require IKK expression for viability.<blue> Together, these observations strongly support the conclusion that amplifications of IKBKE play an important role in the pathogenesis of a subset of breast tumors and identify IKK as promising cancer target.<blue>
+
+42- Although some studies have shown nuclear localization of LATS2,15,23<blue> most studies clearly demonstrate centrosomal localization of both LATS1 and LATS2 during interphase 14,22,27,29-33 and association with the mitotic apparatus in mitotic cells.<blue>
+
+43- <blue>The emerging role of miRNAs in the regulation of fundamental set of cellular mechanisms such as proliferation, apoptosis, development, differentiation and metabolism [9]–[16] clearly suggests that any aberration in miRNA biogenesis pathway or its activity contributes to the human disease pathogenesis including cancer [17].<blue>
+
+44- We suggest that the critical importance of pairing to segment 2-8 for target identification in silico reflects its importance for target recognition in vivo<blue> and speculate that this segment nucleates pairing between miRNAs and mRNAs.<blue>
+
+45- Therefore, in our human model system,<blue> it is unlikely that p14ARF has a essential protective role against RAS-inducec oncogenic transformation, in contrats to what has been found in mice.<blue>
+
+
