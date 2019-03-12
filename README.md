@@ -10,6 +10,9 @@ Code used to perform PCA analysis and NbClust test.
 
 
 ## Files
+#### Complete_statements
+Statements used in the 3 surveys.
+
 #### Survey 1
 Analysis performed on cleaned data of survey 1. Probabilities Observed, G index, Confidence Intervals, Standar Error and "Landis & Koch 1977" interpretation.
 #### Survey 1 raw data
