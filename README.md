@@ -14,17 +14,17 @@ Code used to perform PCA analysis and NbClust test.
 Statements used in the 3 surveys.
 
 #### Survey 1
-Analysis performed on cleaned data of survey 1. Probabilities Observed, G index, Confidence Intervals, Standar Error and "Landis & Koch 1977" interpretation.
+Analysis performed on cleaned data of survey 1. Probabilities Observed, G index, Confidence Intervals, Standard Error and "Landis & Koch 1977" interpretation.
 #### Survey 1 raw data
 Raw data from Survey 1.
 
 #### Survey 2
-Analysis performed on cleaned data of survey 2. Probabilities Observed, G index, Confidence Intervals, Standar Error and "Landis & Koch 1977" interpretation.
+Analysis performed on cleaned data of survey 2. Probabilities Observed, G index, Confidence Intervals, Standard Error and "Landis & Koch 1977" interpretation.
 #### Survey 2 raw data
 Raw data from Survey 2.
 
 #### Survey 3
-Analysis performed on cleaned data of survey 3. Probabilities Observed, G index, Confidence Intervals, Standar Error and "Landis & Koch 1977" interpretation.
+Analysis performed on cleaned data of survey 3. Probabilities Observed, G index, Confidence Intervals, Standard Error and "Landis & Koch 1977" interpretation.
 #### Survey 3 raw data
 Raw data from Survey 3.
 
