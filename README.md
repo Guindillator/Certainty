@@ -42,9 +42,15 @@ Labels from kmeans results of survey 1, 2 and 3. Sorted by groups (Clusters 1, 2
 #### cluster_2_3
 Labels from kmeans results of survey 2 and 3. Sorted by groups (Clusters 1, 2 and 3. Taking survey 2 as reference) to perform Jaccard similarity analysis.
 
+#### st_45_ground_truth_participants_3l.csv
+Participants's ground truth about the appropriate category for the 45 statements based on "majority rule" approach.
+
+#### st_45_ground_truth_author_3l.csv
+Author's ground truth about the appropriate category for the 45 statements based on "majority rule" approach.
+
 ## Corpus
-#### Complete_statements_survey.txt
+#### Complete_statements_survey
 Statements used in the 3 surveys.
 
-#### Complete_statements_training_set_ML_model.csv
+#### Complete_statements_training_set_ML_model
 Statements used to train the machine-learning model.
