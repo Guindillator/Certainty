@@ -1,18 +1,20 @@
 # Certainty
-All code and raw data and files related to certainty project.
+All code and raw data and files related to certainty project. Libraries employed are embedded in their respective jupyter notebook.
 
 ## Pipelines
 #### Code_Figures_Certainty_Project.ipynb
-Code used to create figure 3, 5 and Jaccard Similarity.
+Code used to create figure 3, 5 and Jaccard Similarity. Python 2.7
 
 #### NbClust.ipynb
-Code used to perform PCA analysis and NbClust test.
+Code used to perform PCA analysis and NbClust test. R
 
+#### Horn's parallel analysis.ipynb
+Code used to perform Horn's parallel analysis. R
+
+#### Cross-Validation Certainty Model.ipynb
+Code used to perform the cross-validation of the certainty model. Python 2.7
 
 ## Files
-#### Complete_statements
-Statements used in the 3 surveys.
-
 #### Survey 1
 Analysis performed on cleaned data of survey 1. Probabilities Observed, G index, Confidence Intervals, Standard Error and "Landis & Koch 1977" interpretation.
 #### Survey 1 raw data
@@ -40,3 +42,9 @@ Labels from kmeans results of survey 1, 2 and 3. Sorted by groups (Clusters 1, 2
 #### cluster_2_3
 Labels from kmeans results of survey 2 and 3. Sorted by groups (Clusters 1, 2 and 3. Taking survey 2 as reference) to perform Jaccard similarity analysis.
 
+## Corpus
+#### Complete_statements_survey.txt
+Statements used in the 3 surveys.
+
+#### Complete_statements_training_set_ML_model.csv
+Statements used to train the machine-learning model.
