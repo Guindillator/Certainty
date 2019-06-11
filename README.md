@@ -53,4 +53,4 @@ Author's ground truth about the appropriate category for the 45 statements based
 Statements used in the 3 surveys.
 
 #### Complete_statements_training_set_ML_model
-Statements used to train the machine-learning model.
+Statements used to train the machine-learning model. This doc is called in Cross-Validation Certainty Model.ipynb as "st_3221_ground_truth_train+val_3l.csv" 
