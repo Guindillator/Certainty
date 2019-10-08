@@ -33,6 +33,9 @@ Raw data from Survey 3.
 #### respuestas-s123
 Summary of answers from survey 1, 2 and 3
 
+#### respuestas-s123_v1.1
+Summary of answers from survey 1, 2 and 3 in a different order
+
 #### optimal K
 Graphs from NbClust results.
 
